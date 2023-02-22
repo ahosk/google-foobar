@@ -1,2 +1,4 @@
 # google-foobar
-FooBar code for Google
+
+
+Code and Prompts for Google FooBar
